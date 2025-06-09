@@ -104,7 +104,9 @@ drive.mount('/content/drive')
 ```
 
     Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
-    
+
+
+```python    
 !pip install python-dotenv
 from dotenv import load_dotenv
 import os
@@ -1343,9 +1345,9 @@ View run at <a href='https://wandb.ai/huggingface/runs/' target="_blank">https:/
     </div>
     
     
-    <table border="1" class="dataframe">
+   <table border="1" class="dataframe">
   <thead>
- <tr style="text-align: left;">
+    <tr style="text-align: left;">
       <th>Epoch</th>
       <th>Training Loss</th>
       <th>Validation Loss</th>
@@ -1428,9 +1430,7 @@ View run at <a href='https://wandb.ai/huggingface/runs/' target="_blank">https:/
       <td>5.252716</td>
     </tr>
   </tbody>
-</table><p>
-
-
+</table>
 
 
 
