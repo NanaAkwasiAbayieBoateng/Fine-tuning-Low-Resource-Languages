@@ -1,1 +1,1 @@
-# Finet-tuning-Low-Resource-Languages
+# Fine-tuning-Low-Resource-Languages
