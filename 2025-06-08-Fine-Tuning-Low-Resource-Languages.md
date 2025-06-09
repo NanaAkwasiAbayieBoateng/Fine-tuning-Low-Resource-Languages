@@ -877,62 +877,11 @@ tokenizer.save_pretrained("/content/drive/MyDrive/GhanaNLP/final_model")
       <progress value='329' max='1050' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [ 329/1050 02:17 < 05:03, 2.37 it/s, Epoch 4.69/15]
     </div>
-    <table border="1" class="dataframe">
-  <thead>
- <tr style="text-align: left;">
-      <th>Epoch</th>
-      <th>Training Loss</th>
-      <th>Validation Loss</th>
-      <th>Rouge1</th>
-      <th>Rouge2</th>
-      <th>Rougel</th>
-      <th>Rougelsum</th>
-      <th>Gen Len</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>No log</td>
-      <td>2.361397</td>
-      <td>15.120600</td>
-      <td>4.689800</td>
-      <td>14.853800</td>
-      <td>14.792100</td>
-      <td>7.678600</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>No log</td>
-      <td>2.354005</td>
-      <td>16.049900</td>
-      <td>5.722000</td>
-      <td>16.101600</td>
-      <td>16.029800</td>
-      <td>7.707100</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>No log</td>
-      <td>2.358570</td>
-      <td>17.315000</td>
-      <td>6.687200</td>
-      <td>17.250800</td>
-      <td>17.155700</td>
-      <td>7.714300</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>No log</td>
-      <td>2.365293</td>
-      <td>17.214600</td>
-      <td>6.143300</td>
-      <td>17.150100</td>
-      <td>17.049800</td>
-      <td>7.821400</td>
-    </tr>
-  </tbody>
-</table><p>
+
+
+    ---
+## Model Training Results
+
 
 
 
@@ -942,9 +891,11 @@ tokenizer.save_pretrained("/content/drive/MyDrive/GhanaNLP/final_model")
       <progress value='1050' max='1050' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [1050/1050 08:23, Epoch 15/15]
     </div>
-    <table border="1" class="dataframe">
+   
+
+   <table border="1" class="dataframe">
   <thead>
- <tr style="text-align: left;">
+    <tr style="text-align: left;">
       <th>Epoch</th>
       <th>Training Loss</th>
       <th>Validation Loss</th>
@@ -1107,7 +1058,7 @@ tokenizer.save_pretrained("/content/drive/MyDrive/GhanaNLP/final_model")
       <td>7.957100</td>
     </tr>
   </tbody>
-</table><p>
+</table>
 
 
     Twi: Ɛyɛ ahe?, Translated: What is it?
@@ -1390,6 +1341,8 @@ View run at <a href='https://wandb.ai/huggingface/runs/' target="_blank">https:/
       <progress value='15' max='15' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [15/15 00:32, Epoch 15/15]
     </div>
+    
+    
     <table border="1" class="dataframe">
   <thead>
  <tr style="text-align: left;">
