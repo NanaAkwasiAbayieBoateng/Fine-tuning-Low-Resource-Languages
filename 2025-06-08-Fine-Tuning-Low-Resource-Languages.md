@@ -8,11 +8,10 @@ tags: [PEFT,LLM, Rogue,BLEU,METEOR, TER,chrF, COMET]
 ---
 
 
-<span style="color:blue">
 
 ## Introduction
 
-</span>
+
 
 Fine-tuning large language models (LLMs) for low-resource languages (LRLs) is a critical area of research and development, as it helps to democratize AI and ensure that these powerful technologies are accessible to a wider range of linguistic communities. LRLs often face challenges like limited digital presence, scarcity of annotated data, and lack of specialized NLP tools.
 
