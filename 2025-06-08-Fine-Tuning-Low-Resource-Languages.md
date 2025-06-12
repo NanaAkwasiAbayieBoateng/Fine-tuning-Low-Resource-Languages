@@ -1194,7 +1194,7 @@ View run at <a href='https://wandb.ai/huggingface/runs/' target="_blank">https:/
       [15/15 00:32, Epoch 15/15]
     </div>
     
-    | Epoch | Training Loss | Validation Loss |
+| Epoch | Training Loss | Validation Loss |
 | :---- | :------------ | :-------------- |
 | 1     | No log        | 5.388194        |
 | 2     | No log        | 5.378407        |
